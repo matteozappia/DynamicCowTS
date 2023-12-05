@@ -4,6 +4,8 @@
 
 Enable Dynamic Island on every device that is running iOS 16.0 - 16.6.1 / 17.0 using TrollStore.
 
+<a href="https://buymeacoffee.com/aboutzeph"><img src="/Images/buymeacoffeebutton.png" width="200" height="56"/></a>       <a href="https://ko-fi.com/aboutzeph"><img src="/Images/kofibutton.png" width="358" height="56"/></a> 
+
 ## Screenshots
 <img src="/Images/IMG_0101.PNG" width="300" height="650"/> <img src="/Images/IMG_0102.PNG" width="300" height="650"/> 
 <img src="/Images/IMG_0105.PNG" width="300" height="650"/> <img src="/Images/IMG_0106.PNG" width="300" height="650"/> 
